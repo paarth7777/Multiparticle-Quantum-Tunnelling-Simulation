@@ -6,6 +6,10 @@ In this study, we address the challenge of simulating multi-particle quantum tun
 
 We **simulated Nuclear Fusion** between two particles, governed by Quantum Tunneling. The probabilities of occurrence of tunneling and positions of particles match the theoretically predicted results. This method of simulation could be easily used to provide accurate insights into other **multi-particle** systems governed by **Quantum Tunneling**.
 
+We invite you to look at our Project's Paper: (Multiparticle_Quantum_Tunneling_Simulation.pdf)
+
+For the exact implementation of the Quantum Circuit using Pennylane, View the Jupyter Notebook : (QHacks_Open_Challenge_Final.ipynb)
+
 ## Results
 
 The plot describes the position probabilities of each particle as a grayscale plot where white corresponds to a certain probability of a particle in that distance interval, whereas black indicates 0 probability of the particle being within that distance interval. The distance intervals are plotted over the x-axis, while the time is plotted on the y-axis. It can be clearly seen that there are slight probabilities of either particle tunneling into the other.
