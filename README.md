@@ -14,4 +14,4 @@ This method of simulation could be easily used to provide accurate insights into
 
 The plot describes the position probabilities of each particle as a grayscale plot where white corresponds to a certain probability of a particle in that distance interval, whereas black indicates 0 probability of the particle being within that distance interval. The distance intervals are plotted over the x-axis, while the time is plotted on the y-axis. It can be clearly seen that there are slight probabilities of either particle tunneling into the other.
 
-[Probability Plot](Result_image.png)
+![Probability Plot](Result_image.png)
