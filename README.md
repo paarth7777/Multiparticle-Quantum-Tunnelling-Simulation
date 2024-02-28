@@ -6,9 +6,9 @@ In this study, we address the challenge of simulating multi-particle quantum tun
 
 We **simulated Nuclear Fusion** between two particles, governed by Quantum Tunneling. The probabilities of occurrence of tunneling and positions of particles match the theoretically predicted results. This method of simulation could be easily used to provide accurate insights into other **multi-particle** systems governed by **Quantum Tunneling**.
 
-We invite you to look at our Project's Paper: (Multiparticle_Quantum_Tunneling_Simulation.pdf)
+We invite you to look at our Project's Paper: [Multiparticle_Quantum_Tunneling_Simulation.pdf](Multiparticle_Quantum_Tunneling_Simulation.pdf)
 
-For the exact implementation of the Quantum Circuit using Pennylane, View the Jupyter Notebook : (QHacks_Open_Challenge_Final.ipynb)
+For the exact implementation of the Quantum Circuit using Pennylane, View the Jupyter Notebook : [QHacks_Open_Challenge_Final.ipynb](QHacks_Open_Challenge_Final.ipynb)
 
 ## Results
 
