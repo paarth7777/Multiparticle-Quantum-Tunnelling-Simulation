@@ -1,5 +1,7 @@
 # Multiparticle Quantum Tunnelling Simulation
 
+### Team Hamiltonian Squad: Paarth Jain, Hasnain Koser
+
 ## About the Project
 
 In this study, we address the challenge of simulating multi-particle quantum tunneling, a phenomenon crucial to understanding various quantum mechanical systems but limited by the computational complexity of existing simulation methods. By developing an extension to the Benenti-Strini Method (2018), which originally facilitated quantum simulation of the single-particle Schrödinger equation through trotterization of the complex Hamiltonian, we introduce an approach capable of simulating multi-particle systems.
